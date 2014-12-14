@@ -3,7 +3,7 @@
 ;;  Written in 2010 by Anonymous
 ;;
 ;;  Improved in 2010 by Xuei
-;;  Improved in 2013 by AlexSchroeder
+;;  Improved in 2013 by Alex Schroeder
 ;;  Improved in 2014 by Yuriy V. Pitomets < pitometsu@gmail.com >
 ;;
 ;;  Copyright (C) 2010-2014 Anonymous
